@@ -1,8 +1,8 @@
 name: Hello World!
 
 on:
-  schedule:
-    - cron: "* * * * *"
+    schedule:
+        - cron: "0 */1 * * *"
 jobs:
     hello-world:
         runs-on: ubuntu-22.04
