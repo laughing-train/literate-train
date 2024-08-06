@@ -3,6 +3,7 @@ name: Data Refresh - R
 on:
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:
 jobs:
   refresh-the-dashboard:
     runs-on: ubuntu-22.04
