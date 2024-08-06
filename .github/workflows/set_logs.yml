@@ -2,7 +2,7 @@ name: Set Logs
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 */1 * * *"
 jobs:
   time-logs:
     runs-on: ubuntu-22.04
