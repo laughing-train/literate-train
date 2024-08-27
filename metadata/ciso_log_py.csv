@@ -2624,6 +2624,10 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 656,CISO,SDGE,2024-08-26 02:32:01.721402+00:00,2024-08-24 08:00:00,2024-08-25 07:00:00,2024-08-24 08:00:00,2024-08-25 07:00:00,True,True,24.0,0.0,refresh,True,True,
 656,CISO,VEA,2024-08-26 02:32:03.413768+00:00,2024-08-24 08:00:00,2024-08-25 07:00:00,2024-08-24 08:00:00,2024-08-25 07:00:00,True,True,24.0,0.0,refresh,True,True,
 657,CISO,PGAE,2024-08-26 13:02:30.467462+00:00,2024-08-25 08:00:00,2024-08-25 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
-657,CISO,SCE,2024-08-26 13:02:32.165689+00:00,2024-08-23 08:00:00,2024-08-25 07:00:00,2024-08-23 08:00:00,2024-08-25 07:00:00,True,True,48,11,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+657,CISO,SCE,2024-08-26 13:02:32.165689+00:00,2024-08-23 08:00:00,2024-08-25 07:00:00,2024-08-23 08:00:00,2024-08-25 07:00:00,True,True,48.0,11.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
 657,CISO,SDGE,2024-08-26 13:02:32.168972+00:00,2024-08-25 08:00:00,2024-08-25 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 657,CISO,VEA,2024-08-26 13:02:32.171009+00:00,2024-08-25 08:00:00,2024-08-25 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+658,CISO,PGAE,2024-08-27 02:32:37.329116+00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,True,True,24.0,0.0,refresh,True,True,
+658,CISO,SCE,2024-08-27 02:32:38.704122+00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,True,True,72.0,13.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+658,CISO,SDGE,2024-08-27 02:32:39.511165+00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,True,True,24.0,0.0,refresh,True,True,
+658,CISO,VEA,2024-08-27 02:32:40.960115+00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,2024-08-25 08:00:00,2024-08-26 07:00:00,True,True,24.0,0.0,refresh,True,True,
