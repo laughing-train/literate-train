@@ -2883,3 +2883,7 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 721,CISO,SCE,2024-10-09 01:17:04.319371+00:00,2024-08-23 08:00:00,2024-10-08 07:00:00,2024-08-23 08:00:00,2024-10-08 07:00:00,True,True,1104.0,14.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
 721,CISO,SDGE,2024-10-09 01:17:05.159077+00:00,2024-10-07 08:00:00,2024-10-08 07:00:00,2024-10-07 08:00:00,2024-10-08 07:00:00,True,True,24.0,0.0,refresh,True,True,
 721,CISO,VEA,2024-10-09 01:17:06.742445+00:00,2024-10-07 08:00:00,2024-10-08 07:00:00,2024-10-07 08:00:00,2024-10-08 07:00:00,True,True,24.0,0.0,refresh,True,True,
+722,CISO,PGAE,2024-10-10 01:16:56.159202+00:00,2024-08-26 08:00:00,2024-10-09 07:00:00,2024-08-26 08:00:00,2024-10-09 07:00:00,True,True,1056.0,5.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+722,CISO,SCE,2024-10-10 01:16:58.325330+00:00,2024-08-23 08:00:00,2024-10-09 07:00:00,2024-08-23 08:00:00,2024-10-09 07:00:00,True,True,1128.0,14.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+722,CISO,SDGE,2024-10-10 01:16:59.736643+00:00,2024-10-08 08:00:00,2024-10-09 07:00:00,2024-10-08 08:00:00,2024-10-09 07:00:00,True,True,24.0,0.0,refresh,True,True,
+722,CISO,VEA,2024-10-10 01:17:01.833718+00:00,2024-10-08 08:00:00,2024-10-09 07:00:00,2024-10-08 08:00:00,2024-10-09 07:00:00,True,True,24.0,0.0,refresh,True,True,
